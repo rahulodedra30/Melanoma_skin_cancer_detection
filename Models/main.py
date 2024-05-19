@@ -4,9 +4,8 @@ import mlflow.keras
 from model import build_model, compile_model, load_data, train_model, evaluate_model
 
 def get_train_test_paths():
-    notebook_dir = os.path.dirname(os.path.abspath(__file__))
-    train_dir = os.path.join(notebook_dir, 'train')
-    test_dir = os.path.join(notebook_dir, 'test')
+    train_dir = os.path.join('', 'train')
+    test_dir = os.path.join('', 'test')
     return train_dir, test_dir
 
 def kill_existing_run():
