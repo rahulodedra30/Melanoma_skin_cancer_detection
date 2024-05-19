@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahulodedra/Downloads/melanoma_cancer_dataset/mlruns/0/53a0bd0d84574c6c9ebafb8bdaf63470/artifacts
+end_time: 1716141805257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53a0bd0d84574c6c9ebafb8bdaf63470
+run_name: bemused-bee-52
+run_uuid: 53a0bd0d84574c6c9ebafb8bdaf63470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716141805149
+status: 4
+tags: []
+user_id: rahulodedra
