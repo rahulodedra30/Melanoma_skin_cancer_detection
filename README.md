@@ -71,7 +71,7 @@ Model: "sequential_1"
 ```
 
 
-## Performance Metrics**
+## Performance Metrics
 
 **Training Accuracy:** 91% <br>
 **Validation Accuracy:** 90%<br>
