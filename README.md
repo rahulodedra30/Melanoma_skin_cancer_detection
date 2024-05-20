@@ -80,7 +80,7 @@ Model: "sequential_1"
 ## Logging and Monitoring
 This project uses MLFlow for tracking experiments, logging metrics, and storing models. Key logs include:
 
-**Model parameters**
+**Model parameters**<br>
 Training and validation metrics<br>
 Test accuracy<br>
 Model artifacts (saved models)<br>
